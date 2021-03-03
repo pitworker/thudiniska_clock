@@ -72,7 +72,7 @@ Basic lexicon should (must ?) have basic letters, symbols and punctuation."
 (lex.add.entry '("atu" nil (((AA T) 0) ((U) 0))))
 (lex.add.entry '("aþ" nil (((A TH) 0))))
 (lex.add.entry '("léca" nil (((L EI) 0) ((C A) 0 ))))
-(lex.add.entry '("ox"  nil (((O C) 0))))
+(lex.add.entry '("oc"  nil (((O C) 0))))
 (lex.add.entry '("tír"  nil (((T J IU R) 0))))
 (lex.add.entry '("múr"  nil (((M W UI R) 0))))
 (lex.add.entry '("tiga"  nil (((T II) 0) ((G A) 0 ))))
@@ -102,6 +102,10 @@ Basic lexicon should (must ?) have basic letters, symbols and punctuation."
 (lex.add.entry '("kjeþér"  nil (((K J EE) 0) ((TH EI R) 0))))
 (lex.add.entry '("sject"  nil (((S J EE C T) 0))))
 (lex.add.entry '("þrjátí"  nil (((TH R J AU) 0) ((T J IU) 0))))
+(lex.add.entry '("ind" nil (((I N D) 0))))
+(lex.add.entry '("noú" nil (((N OO) 0) ((W UI) 0))))
+(lex.add.entry '("thrí" nil (((T HR J IU) 0))))
+(lex.add.entry '("kjeþir" nil (((K J EE TH) 0) ((I R) 0))))
 )
 
 (set! eng_map

@@ -1,0 +1,7 @@
+0 S - f 0 0 0 0 a - R - r 0 0 0 0 a + 0.10500002 125.32954 125.77273 124.89773 0 onset onset coda 0 0 1 0 0 1 initial I + 0 1 s 1 - 0 0 0 0 content aux content 
+1 EE + 0 2 d 1 - 0 0 I + 0 1 s 1 - 0 0 0.11000001 115.45454 116.39037 114.17113 0 coda coda coda 0 3 0 1 0 1 initial J - r 0 0 0 0 p + 0 0 content aux 0 
+2 EE + 0 2 d 1 - 0 0 EI + 0 2 d 1 - 0 0 0.13000011 119.68288 120.05286 119.11205 0 onset coda coda 0 0 1 0 1 0 final J - r 0 0 0 0 p + 0 0 content content content 
+3 M - n 0 0 0 0 l + U + 0 1 s 3 + 0 0 0.11000013 120.2303 120.76363 119.68484 0 onset coda coda 0 0 1 0 1 0 final A + 0 3 s 1 - 0 0 0 0 content aux content 
+4 EE + 0 2 d 1 - 0 0 R - r 0 0 0 0 a + 0.13999999 121.87878 122.47272 121.38182 0 coda onset coda 0 3 0 1 0 1 initial J - r 0 0 0 0 p + 0 0 content aux content 
+5 A + 0 3 s 1 - 0 0 T - s 0 0 0 0 a - 0.20500004 107.02797 109.44056 103.46153 0 coda onset coda 0 1 0 1 1 1 single U + 0 1 s 3 + 0 0 0 0 content content content 
+6 A + 0 3 s 1 - 0 0 L - l 0 0 0 0 a + 0.20000005 108.67133 111.08392 106.11888 0 coda onset coda 0 1 0 1 1 1 single U + 0 1 s 3 + 0 0 0 0 content content content 

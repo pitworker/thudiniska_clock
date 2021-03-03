@@ -1,0 +1,13 @@
+0 W - r 0 0 0 0 l + D - s 0 0 0 0 a - 0.085000038 120.42046 120.76137 119.97727 0 coda onset onset 0 2 0 1 0 0 mid N - n 0 0 0 0 a + 0 0 content content content 
+1 W - r 0 0 0 0 l + pau - 0 0 0 0 0 0 - 0.14499998 112.30028 112.98898 111.1708 0 coda coda onset 0 1 0 1 4 0 final OO + 0 1 l 3 + 0 0 1 0 content content 0 
+2 W - r 0 0 0 0 l + D - s 0 0 0 0 a - 0.089999914 119.146 119.6832 118.65014 0 coda onset onset 0 2 0 1 0 0 mid N - n 0 0 0 0 a + 0 0 content content content 
+3 W - r 0 0 0 0 l + pau - 0 0 0 0 0 0 - 0.16499996 109.71458 110.3277 108.78436 0 coda coda onset 0 1 0 1 4 0 final OO + 0 1 l 3 + 0 0 1 0 content content 0 
+4 W - r 0 0 0 0 l + D - s 0 0 0 0 a - 0.065000057 116.18393 116.53277 115.87738 0 coda onset onset 0 2 0 1 0 0 mid N - n 0 0 0 0 a + 0 0 content content content 
+5 W - r 0 0 0 0 l + D - s 0 0 0 0 a - 0.0849998 117.78997 118.26019 117.22571 0 coda onset onset 0 2 0 1 0 0 mid N - n 0 0 0 0 a + 0 0 content content content 
+6 W - r 0 0 0 0 l + M - n 0 0 0 0 l + 0.11000001 121.19122 121.72414 120.50157 0 coda onset onset 0 2 0 1 1 1 single D - s 0 0 0 0 a - 0 0 content aux content 
+7 W - r 0 0 0 0 l + L - l 0 0 0 0 a + 0.16499996 111.48396 112.1524 110.36096 0 coda coda onset 0 2 0 0 4 1 single N - n 0 0 0 0 a + 0 0 content content 0 
+8 W - r 0 0 0 0 l + D - s 0 0 0 0 a - 0.095000029 117.47327 117.86096 116.9385 0 coda onset onset 0 2 0 1 0 0 mid N - n 0 0 0 0 a + 0 0 content content content 
+9 W - r 0 0 0 0 l + D - s 0 0 0 0 a - 0.075000048 118.84116 119.11089 118.47153 0 coda onset onset 0 2 0 1 0 0 mid N - n 0 0 0 0 a + 0 0 content content content 
+10 W - r 0 0 0 0 l + D - s 0 0 0 0 a - 0.095000029 117.66759 118.0349 117.32782 0 coda onset onset 0 2 0 1 0 0 mid N - n 0 0 0 0 a + 0 0 content content content 
+11 W - r 0 0 0 0 l + R - r 0 0 0 0 a + 0.15499997 119.74288 120.19284 119.39394 0 coda coda onset 0 1 0 0 1 0 final EE + 0 2 d 1 - 0 0 0 0 content content content 
+12 W - r 0 0 0 0 l + R - r 0 0 0 0 a + 0.10500002 101.00649 105.0974 99.02597 0 coda coda onset 0 2 0 0 4 1 single M - n 0 0 0 0 l + 0 0 content content 0 

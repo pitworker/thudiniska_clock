@@ -1,10 +1,51 @@
 (
 ( occurid cluster )
 ( p.name
-    0 "aa" "ae" "ah" "ao" "aw" "ax" "axr" "ay" "b" "brth" "ch" "d" "dh"
-    "dx" "eh" "el" "em" "en" "er" "ey" "f" "g" "h#" "hh" "hv" "ih" "iy"
-    "jh" "k" "l" "m" "n" "ng" "nx" "ow" "oy" "p" "pau" "r" "s" "sh" "t"
-    "th" "uh" "uw" "v" "w" "y" "z" "zh"
+    0
+    I
+    II
+    U
+    UU
+    E
+    EE
+    O
+    OO
+    A
+    AA
+    AU
+    EI
+    EU
+    IU
+    IA
+    OU
+    UI
+    B
+    P
+    D
+    T
+    G
+    K
+    M
+    HM
+    N
+    HN
+    NG
+    HNG
+    R
+    HR
+    F
+    V
+    TH
+    DH
+    S
+    C
+    Q
+    H
+    L
+    HL
+    J
+    W
+    pau
 )
 ( p.ph_vc
 +
@@ -60,10 +101,51 @@ v
 0
 )
 ( n.name ignore
-    0 "aa" "ae" "ah" "ao" "aw" "ax" "axr" "ay" "b" "brth" "ch" "d" "dh"
-    "dx" "eh" "el" "em" "en" "er" "ey" "f" "g" "h#" "hh" "hv" "ih" "iy"
-    "jh" "k" "l" "m" "n" "ng" "nx" "ow" "oy" "p" "pau" "r" "s" "sh" "t"
-    "th" "uh" "uw" "v" "w" "y" "z" "zh"
+    0
+    I
+    II
+    U
+    UU
+    E
+    EE
+    O
+    OO
+    A
+    AA
+    AU
+    EI
+    EU
+    IU
+    IA
+    OU
+    UI
+    B
+    P
+    D
+    T
+    G
+    K
+    M
+    HM
+    N
+    HN
+    NG
+    HNG
+    R
+    HR
+    F
+    V
+    TH
+    DH
+    S
+    C
+    Q
+    H
+    L
+    HL
+    J
+    W
+    pau
 )
 ( n.ph_vc
 +

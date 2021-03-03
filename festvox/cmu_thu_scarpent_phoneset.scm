@@ -40,7 +40,7 @@
 ;; This is where it'll fall over if you haven't defined a 
 ;; a phoneset yet, if you have, delete this, if you haven't
 ;; define one then delete this error message
-(error "You have not yet defined a phoneset for thu (and others things ?)\n            Define it in festvox/cmu_thu_scarpent_phoneset.scm\n")
+
 
 (defPhoneSet
   cmu_thu
@@ -114,8 +114,8 @@
    ;; insert the phones here, see examples in 
    ;; festival/lib/*_phones.scm
 
+   )
   )
-)
 
 (PhoneSet.silences '(pau))
 

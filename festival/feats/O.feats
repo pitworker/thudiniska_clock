@@ -1,0 +1,9 @@
+0 C - f 0 0 0 0 g - Q - f 0 0 0 0 g + 0.20499992 122.01903 122.92812 121.35307 0 coda coda coda 0 0 1 0 1 1 single EI + 0 2 d 1 - 0 0 0 0 content content content 
+1 C - f 0 0 0 0 g - Q - f 0 0 0 0 g + 0.1099999 112.06061 112.78788 111.6 0 coda coda coda 0 0 1 0 1 1 single EI + 0 2 d 1 - 0 0 0 0 content content content 
+2 E + 0 2 s 1 - 0 0 Q - f 0 0 0 0 g + 0.025000095 111.41559 111.75325 111.35065 0 coda coda coda 0 0 1 0 1 1 single J - r 0 0 0 0 p + 0 0 content content content 
+3 C - f 0 0 0 0 g - Q - f 0 0 0 0 g + 0.10500002 112.78722 113.26673 112.53746 0 coda coda coda 0 0 1 0 1 1 single EI + 0 2 d 1 - 0 0 0 0 content content content 
+4 IU + 0 1 l 3 - 0 0 Q - f 0 0 0 0 g + 0.11000001 123.48651 123.92607 123.04695 0 coda coda coda 0 0 1 0 1 1 single J - r 0 0 0 0 p + 0 0 content content content 
+5 IU + 0 1 l 3 - 0 0 Q - f 0 0 0 0 g + 0.11000013 122.48852 122.85583 122.11203 0 coda coda coda 0 0 1 0 1 1 single J - r 0 0 0 0 p + 0 0 content content content 
+6 C - f 0 0 0 0 g - Q - f 0 0 0 0 g + 0.1099999 106.11111 106.9697 105 0 coda coda coda 0 0 1 0 1 1 single EI + 0 2 d 1 - 0 0 0 0 content content content 
+7 U + 0 1 s 3 + 0 0 C - f 0 0 0 0 g - 0.11000001 112.79221 116.03896 111.36363 0 coda coda coda 0 0 1 0 1 1 single T - s 0 0 0 0 a - 0 0 content content content 
+8 U + 0 1 s 3 + 0 0 C - f 0 0 0 0 g - 0.11000001 114.28571 115.61688 112.85714 0 coda coda coda 0 0 1 0 1 1 single T - s 0 0 0 0 a - 0 0 content content content 

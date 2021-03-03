@@ -1,0 +1,13 @@
+0 N - n 0 0 0 0 a + UI + 0 1 l 1 - 0 0 0.065000057 120.76137 121.125 120.42046 0 onset coda onset 0 1 0 0 0 0 mid IU + 0 1 l 3 - 0 0 0 0 content content content 
+1 OO + 0 1 l 3 + 0 0 UI + 0 1 l 1 - 0 0 0.10500002 112.98898 113.58127 112.30028 0 onset coda coda 0 0 1 0 4 0 final N - n 0 0 0 0 a + 0 0 content content 0 
+2 N - n 0 0 0 0 a + UI + 0 1 l 1 - 0 0 0.10500014 119.6832 120.08264 119.146 0 onset coda onset 0 1 0 0 0 0 mid IU + 0 1 l 3 - 0 0 0 0 content content content 
+3 OO + 0 1 l 3 + 0 0 UI + 0 1 l 1 - 0 0 0.125 110.3277 110.82452 109.71458 0 onset coda coda 0 0 1 0 4 0 final N - n 0 0 0 0 a + 0 0 content content 0 
+4 N - n 0 0 0 0 a + UI + 0 1 l 1 - 0 0 0.10000014 116.53277 116.89217 116.18393 0 onset coda onset 0 1 0 0 0 0 mid IU + 0 1 l 3 - 0 0 0 0 content content content 
+5 N - n 0 0 0 0 a + UI + 0 1 l 1 - 0 0 0.065000057 118.26019 118.74608 117.78997 0 onset coda onset 0 1 0 0 0 0 mid IU + 0 1 l 3 - 0 0 0 0 content content content 
+6 D - s 0 0 0 0 a - UI + 0 1 l 1 - 0 0 0.060000062 121.72414 122.4138 121.19122 0 onset coda onset 0 1 0 0 1 1 single S - f 0 0 0 0 a - 0 0 content aux content 
+7 N - n 0 0 0 0 a + UI + 0 1 l 1 - 0 0 0.085000038 112.1524 112.82085 111.48396 0 onset coda onset 0 1 0 0 4 1 single IU + 0 1 l 3 - 0 0 0 0 content content 0 
+8 N - n 0 0 0 0 a + UI + 0 1 l 1 - 0 0 0.049999952 117.86096 118.23529 117.47327 0 onset coda onset 0 1 0 0 0 0 mid IU + 0 1 l 3 - 0 0 0 0 content content content 
+9 N - n 0 0 0 0 a + UI + 0 1 l 1 - 0 0 0.059999943 119.11089 119.45055 118.84116 0 onset coda onset 0 1 0 0 0 0 mid IU + 0 1 l 3 - 0 0 0 0 content content content 
+10 N - n 0 0 0 0 a + UI + 0 1 l 1 - 0 0 0.10500002 118.0349 118.26447 117.66759 0 onset coda onset 0 1 0 0 0 0 mid IU + 0 1 l 3 - 0 0 0 0 content content content 
+11 EE + 0 2 d 1 - 0 0 UI + 0 1 l 1 - 0 0 0.090000153 120.19284 120.62443 119.74288 0 onset coda coda 0 0 1 0 1 0 final T - s 0 0 0 0 a - 0 0 content content content 
+12 M - n 0 0 0 0 l + UI + 0 1 l 1 - 0 0 0.52499998 105.0974 109.57793 101.00649 0 onset coda onset 0 1 0 0 4 1 single C - f 0 0 0 0 g - 0 0 content content 0 

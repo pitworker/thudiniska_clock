@@ -1,0 +1,9 @@
+0 IU + 0 1 l 3 - 0 0 J - r 0 0 0 0 p + 0.11000001 122.27273 122.73864 121.89773 0 onset onset coda 0 0 1 0 0 1 initial J - r 0 0 0 0 p + 0 0 content content content 
+1 T - s 0 0 0 0 a - J - r 0 0 0 0 p + 0.11000001 121.40496 122.19008 120.86777 0 onset onset coda 0 0 1 0 0 1 initial C - f 0 0 0 0 g - 0 0 content content content 
+2 R - r 0 0 0 0 a + J - r 0 0 0 0 p + 0.1099999 118.11839 118.58351 117.69556 0 onset onset coda 0 0 1 0 0 1 initial EI + 0 2 d 1 - 0 0 0 0 content content content 
+3 UI + 0 1 l 1 - 0 0 J - r 0 0 0 0 p + 0.1099999 120.50157 121.19122 119.92163 0 onset onset coda 0 0 1 0 0 1 initial W - r 0 0 0 0 l + 0 0 content content content 
+4 A + 0 3 s 1 - 0 0 TH - f 0 0 0 0 d - 0.1099999 120.76363 121.12727 120.2303 0 coda onset coda 0 2 0 1 0 0 mid R - r 0 0 0 0 a + 0 0 content aux content 
+5 IU + 0 1 l 3 - 0 0 J - r 0 0 0 0 p + 0.099999905 119.59893 120.14706 119.11765 0 onset onset coda 0 0 1 0 0 1 initial J - r 0 0 0 0 p + 0 0 content content content 
+6 G - s 0 0 0 0 v - J - r 0 0 0 0 p + 0.11000013 120.48951 121.10889 120.10989 0 onset onset coda 0 0 1 0 0 1 initial OU + 0 2 d 3 + 0 0 0 0 content content content 
+7 R - r 0 0 0 0 a + J - r 0 0 0 0 p + 0.089999914 119.16437 119.39394 118.82461 0 onset onset coda 0 0 1 0 0 1 initial UI + 0 1 l 1 - 0 0 0 0 content content content 
+8 C - f 0 0 0 0 g - W - r 0 0 0 0 l + 0.16499996 109.57793 111.36363 105.0974 0 onset onset coda 0 0 1 0 4 1 single O + 0 3 l 3 + 0 0 0 0 content content 0 
